@@ -1,0 +1,33 @@
+Please enter Names of family members:
+Name of Family Member #1:joe smith
+Name of Family Member #2:mary ann
+Name of Family Member #3:joe collins
+Name of Family Member #4:john smith
+Name of Family Member #5:james smoith
+
+Your Family Members:
+#1:joe smith
+#2:mary ann
+#3:joe collins
+#4:john smith
+#5:james smoith
+
+Would you like to change someone's name? (Y/N)y
+Whose name would you like to change? (Please input their number):3
+2What would you like to change their name to?joe billybob
+joe billybob
+Your Family Members:
+#1:joe smith
+#2:mary ann
+#3:joe billybob
+#4:john smith
+#5:james smoith
+
+Would you like to change someone's name? (Y/N)n
+Ok! Final edits complete!
+Your Family Members:
+#1:joe smith
+#2:mary ann
+#3:joe billybob
+#4:john smith
+#5:james smoith
